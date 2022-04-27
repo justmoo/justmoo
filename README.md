@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on Flutter, Nodejs and blockchain projects
 - 🤔 I’m also working as a Freelancer.
 - 💬 Ask me about Programming or Blockchain or backend development
-- 📫 I am also a technical writer at <a href="block-arabic.com"> block-arabic.com </a> 
+- 📫 I am also a technical writer at <a href="https://block-arabic.com"> block-arabic.com </a> 
 
 
 <p>Connect with me on
