@@ -9,9 +9,9 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter projects and Nodejs/expressjs
-- 🌱 I've 4+ years of experience in Nodejs and 2 years of Flutter.
-- 👯 I’m looking to collaborate on Flutter, Nodejs and blockchain projects
+- 🔭 I’m currently working on Nodejs/expressjs
+- 🌱 I've 4+ years of experience in Nodejs.
+- 👯 I’m looking to collaborate on blockchain related projects
 - 🤔 I’m also working as a Freelancer.
 - 💬 Ask me about Programming or Blockchain or backend development
 - 📫 I am also a technical writer at <a href="https://block-arabic.com"> block-arabic.com </a> 
